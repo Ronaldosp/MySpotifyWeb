@@ -65,7 +65,7 @@ My Spotify is a Web App where you can search Albums and Songs as well as showing
   ![Screenshot (277)](https://github.com/Ronaldosp/MySpotifyWeb/assets/141498022/1db37db3-ae80-4611-b67e-8dc9fc1b6348)
 
 
-  #THANK YOU
+  Thank You
 
 
 
