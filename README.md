@@ -49,9 +49,9 @@ My Spotify is a Web App where you can search Albums and Songs as well as showing
   ![Screenshot (269)](https://github.com/Ronaldosp/MySpotifyWeb/assets/141498022/16294c8f-2079-4e73-858f-e224c94b8b1a)
   ![Screenshot (270)](https://github.com/Ronaldosp/MySpotifyWeb/assets/141498022/44022a20-f6f7-4653-b887-68a315e15972)
   ![Screenshot (271)](https://github.com/Ronaldosp/MySpotifyWeb/assets/141498022/f5693dfd-7e1e-49cb-82b0-29f00f21196f)
-  -after succeeding to pay you will see in your top left that it is a premium account
+  - after succeeding to pay you will see in your top left that it is a premium account
   ![Screenshot (272)](https://github.com/Ronaldosp/MySpotifyWeb/assets/141498022/6b895993-294c-4759-a8b2-d1d63679c624)
-  -and you can add more than  10 songs and albums
+  - and you can add more than  10 songs and albums
   ![Screenshot (273)](https://github.com/Ronaldosp/MySpotifyWeb/assets/141498022/5453fab2-8c04-4b4a-9963-e86df1b44992)
 
 !Spotify Login
